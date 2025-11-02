@@ -1,10 +1,7 @@
-# Análisis de texto y NLP
+streamlit
+pandas
+pymupdf==1.22.3
+spacy==3.5.1
 nltk
 vaderSentiment
-spacy==3.8.7
-
-# Procesamiento de datos y PDF
-streamlit==1.51.0
-pandas==2.3.3
-PyMuPDF==1.24.9
 numpy
