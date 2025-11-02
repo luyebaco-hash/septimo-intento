@@ -1,0 +1,10 @@
+# Análisis de texto y NLP
+nltk
+vaderSentiment
+spacy==3.7.4 --only-binary :all:
+
+# Procesamiento de datos y PDF
+streamlit==1.51.0
+pandas==2.3.3
+PyMuPDF==1.24.9
+numpy
