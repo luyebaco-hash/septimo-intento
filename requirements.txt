@@ -1,7 +1,7 @@
 # Análisis de texto y NLP
 nltk
 vaderSentiment
-spacy==3.7.4 --only-binary :all:
+spacy==3.8.7
 
 # Procesamiento de datos y PDF
 streamlit==1.51.0
